@@ -1,4 +1,4 @@
-﻿#Comandos Linux
+# Comandos Linux
 - pwd	- mostrardiretório atual;
 - ls 	- mostrar/listar o conteúdo do diretório;
 - ps 	- Mostra os processos ativos de maneira detalhada;
@@ -11,11 +11,11 @@
 	= igualar permisão
 	}
 Exemplo do uso do "chmod": chmod +x arq.txt
-#Tipos de permissões de acesso
+# Tipos de permissões de acesso
 - r - Ler 
 - w - gravar
 - x - executar para arquivos e acessar diretório
-#Tipos de permissões no modo octal
+# Tipos de permissões no modo octal
 
 - 7 -> todas permissões
 - 6 -> ler + gravar
